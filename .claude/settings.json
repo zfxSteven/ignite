@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "additionalDirectories": [
+      "/Users/zfx/Desktop/huazhao/Q2/planReviewSkill-workspace/iteration-1/eval-ticket-system/with_skill/outputs",
+      "/Users/zfx/Desktop/huazhao/Q2/planReviewSkill-workspace/iteration-1/eval-ai-community/with_skill/outputs",
+      "/Users/zfx/Desktop/huazhao/Q2/planReviewSkill-workspace/iteration-1/eval-growth-campaign/with_skill/outputs"
+    ]
+  }
+}

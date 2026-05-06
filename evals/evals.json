@@ -1,0 +1,23 @@
+{
+  "skill_name": "plan-review",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "我想给公司内部做一个工单系统，目前团队20人，用Excel管理很乱，希望能有个系统化的工具来追踪和管理任务",
+      "expected_output": "Should go through the full pipeline: clarify requirements, generate plan, multi-perspective critique with 3 suggestors (Product/Tech/Ops), debate, judge verdicts, and produce a revised plan",
+      "files": []
+    },
+    {
+      "id": 1,
+      "prompt": "做一个AI学习社区",
+      "expected_output": "Should first clarify this vague idea with the user, then proceed through the full pipeline with appropriate suggestor roles",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "我们计划Q3做一次付费用户增长活动，预算5万",
+      "expected_output": "Should clarify the growth activity details, then use Marketing/Sales/CustomerSuccess or similar suggestor roles to review the plan",
+      "files": []
+    }
+  ]
+}
